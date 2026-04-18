@@ -1,0 +1,17 @@
+{
+  "name": "unified-commenting-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Third-party embeddable comment system",
+  "scripts": {
+    "dev": "pnpm --parallel -r dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "clean": "pnpm -r clean"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  }
+}
