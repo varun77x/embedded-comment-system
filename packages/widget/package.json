@@ -1,0 +1,23 @@
+{
+  "name": "@ucs/widget",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src",
+    "clean": "rimraf dist"
+  },
+  "dependencies": {
+    "@ucs/types": "workspace:*",
+    "preact": "^10.20.2",
+    "socket.io-client": "^4.7.5"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.1",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
