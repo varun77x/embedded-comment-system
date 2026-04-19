@@ -1,4 +1,4 @@
-# Unified Commenting System (UCS)
+# Embedded Commenting System (UCS)
 
 A self-hosted, third-party embeddable comment system. Any website can add real-time, nested comments by dropping in a single `<script>` tag.
 
